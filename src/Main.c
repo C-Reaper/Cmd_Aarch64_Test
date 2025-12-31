@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, ARM World!\n");
+    printf("Hello, Aarch64 World!\n");
     return 0;
 }
